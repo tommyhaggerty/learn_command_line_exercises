@@ -10,7 +10,7 @@
 | Command  | What the command does                  |
 | -------- |:--------------------------------------:|
 | pwd      | print working directory                |
-| hostname | my computer's working directory        |
+| hostname | my computer's network name             |
 | mkdir    | make directory                         |
 | cd       | change directory                       |
 | ls       | list directory                         |
