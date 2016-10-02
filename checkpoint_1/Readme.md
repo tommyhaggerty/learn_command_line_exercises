@@ -45,7 +45,7 @@ For each question that is asked below, please provide the command you would run 
 9) Please go up two directories.
 
     Hold command key and click on the window title, selected the folder two directories back in finder
-    Type cd ../ then typed cd ../
+    Type cd ../../
     
 10) What directory are you in now?
      
