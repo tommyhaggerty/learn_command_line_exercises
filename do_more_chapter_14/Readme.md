@@ -1,5 +1,5 @@
 
-# Chapter 16: Wildcard Matching
+# Chapter 14: Removing a file.
 
 ## Do More
 
