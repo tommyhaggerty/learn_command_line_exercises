@@ -1,2 +1,0 @@
-This is ex12.txt
-Testing
