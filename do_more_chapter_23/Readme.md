@@ -12,5 +12,4 @@
 | sudo     | - execute a command as another user              |
 | chmod    | - change file modes or Access Control Lists      |
 | chown    | - change owner and group of a file               |
-| -------- |:------------------------------------------------:|
 
