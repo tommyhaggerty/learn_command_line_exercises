@@ -23,7 +23,7 @@ What does the -i option to grep accomplish?
 
 What option to ls tells it to output file size in human readable form?
 
-```ls -ks```
+```ls -h```
 
 What does the -r and -f options to rm do exactly?
 
@@ -56,8 +56,9 @@ echo $PWD
 
 What is your home directory set to?
 
-```echo $HOME
-   /Users/tommy.haggerty
+```
+echo $HOME
+/Users/tommy.haggerty
 ```
 
 Can you set your environment to have DEBUG set to true?
