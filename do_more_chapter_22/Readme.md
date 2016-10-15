@@ -10,7 +10,15 @@ I used ```env``` to pull up the list of environment variables. I won't list them
 HOME=/Users/tommy.haggerty
 RUBY_VERSION=ruby-2.3.1
 rvm_path=/Users/tommy.haggerty/.rvm
+PWD=/Users/tommy.haggerty/workspace/davinci_coders_t3_2016/homework/learn_command_line_exercises
+TERM_PROGRAM=iTerm.app
 ```
+HOME - indicates where a user's home directory is located in the file system
+RUBY_VERSION - indicates what your current ruby version is
+rvm_path - indicates where the .rvm file is located
+PWD - indicates your current working directory
+TERM_PROGRAM - indicates your default terminal program
+
 ### Read the man page for env again. What else can it do?
 
 ```
