@@ -17,11 +17,11 @@ Using ```touch <filename> ``` on an exisiting file changes the time on the file
 
 Can you copy the foo/blah.txt file to slash temp?
 
-Yes. ```cp foo/blah.txt ~/workspace/davinci_coders_t3_2016/homework/learn_command_line_exercises/tmp```
+Yes. ```cp foo/blah.txt /tmp/```
 
 Can you copy .bash_profile in your home directory to the current directory? (Do not use cd here...)
 
-Yes ```cp ~/.bash_profile ~/workspace/davinci_coders_t3_2016/homework/learn_command_line_exercises/checkpoint_3/```
+Yes ```cp ~/.bash_profile ./```
 
 What's in foo/blah.txt?
 
